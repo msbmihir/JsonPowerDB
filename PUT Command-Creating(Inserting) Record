@@ -1,0 +1,12 @@
+{
+    "token": "90936861|-31948784479254024|90932362",
+    "cmd": "PUT",
+    "dbName": "Employee",
+    "rel": "Emp-Relation",
+    
+    "jsonStr": {
+        "name": "Mihir S. Bhokre",
+        "email": "mihir@gmail.com",
+      	"mobileNo": "098767427327",
+    }
+}
