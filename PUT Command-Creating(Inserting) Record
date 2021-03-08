@@ -1,12 +1,13 @@
 {
-    "token": "90936861|-31948784479254024|90932362",
+    "token": "90936861|-31948784479254024|90932362",  // Unique token No. 
     "cmd": "PUT",
     "dbName": "Employee",
     "rel": "Emp-Relation",
     
-    "jsonStr": {
-        "name": "Mihir S. Bhokre",
+    "jsonStr": {  // Attributes such as name, id, etc. are added in this section.
+        "name": "Mihir S. Bhokre",  
         "email": "mihir@gmail.com",
       	"mobileNo": "098767427327",
     }
 }
+// major advantage of JsonPowerDB is that the data is indexed properly based on the data types being used.
