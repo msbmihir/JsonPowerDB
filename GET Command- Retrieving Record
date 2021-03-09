@@ -1,0 +1,11 @@
+{
+    "token": "2134770734|1905622745244281054|2134771272", // Token No.
+    "cmd": "GET", // GET to access the data
+    "dbName": "Employee",
+    "rel": "Employee",
+    "jsonStr":{
+        "empName": "Mihir Bhokre" // mention any name or field to access the data
+    }
+}
+
+// case sensitive 
