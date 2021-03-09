@@ -1,0 +1,7 @@
+{
+    "token": "90936861|-31948784479254024|90932362",
+    "cmd": "REMOVE", // query name
+    "dbName": "Employee",
+    "rel": "Emp-Rel",
+    "record" : 1  // remove JSON str and mention the record no
+}
