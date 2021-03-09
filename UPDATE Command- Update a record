@@ -1,0 +1,10 @@
+{
+    "token": "90936861|-31948784479254024|90932362",
+    "cmd": "UPDATE", // request type
+    "dbName": "Employee",
+    "rel": "Emp-Rel",
+    "jsonStr":{
+      "1": {"mobileNO" 12345},   // row you want to update along with the coloumn name & the value.
+      "2": {"name" "Mihir S. Bhokre"}   
+    }
+}
